@@ -7,10 +7,9 @@ Dados da Epidemia de Covid em Indaiatuba
 A partir dos dados disponibilizados pela prefeitura municipal de Indaiatuba, trouxe esse projeto para uma melhor visualização, visto que gráficos são mais fáceis de interpretar do que números.
 
 
+## Autors
 
-## Authors
-
-* **Alcides Goldoni Junior ** - *Initial work* - [GitHub](https://github.com/agoldonijr) - [LinkedIn](https://www.linkedin.com/in/alcides-goldoni-junior-50911364/)
+* Alcides Goldoni Junior  - *Initial work* - [GitHub](https://github.com/agoldonijr) - [LinkedIn](https://www.linkedin.com/in/alcides-goldoni-junior-50911364/)
 
 Para mais informações e de onde foram tirados os dados [Prefeitura de Indaiatuba - Novo Coronavirus](https://www.indaiatuba.sp.gov.br/saude/vigilancia-em-saude/vigilancia-epidemiologica/novo-coronavirus/).
 
