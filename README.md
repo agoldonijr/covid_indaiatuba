@@ -10,7 +10,7 @@ A partir dos dados disponibilizados pela prefeitura municipal de Indaiatuba, tro
 
 ![Curva Covid em Indaiatuba](figura.png)
 
-## Autors
+## Autor
 
 * Alcides Goldoni Junior  - *Initial work* - [GitHub](https://github.com/agoldonijr) - [LinkedIn](https://www.linkedin.com/in/alcides-goldoni-junior-50911364/)
 
