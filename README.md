@@ -8,6 +8,8 @@ A partir dos dados disponibilizados pela prefeitura municipal de Indaiatuba, tro
 
 ## Grafico
 
+Data: 27/06/2020
+
 ![Curva Covid em Indaiatuba](figura.png)
 
 ## Autor
