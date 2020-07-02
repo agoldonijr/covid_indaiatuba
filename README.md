@@ -8,7 +8,8 @@ A partir dos dados disponibilizados pela prefeitura municipal de Indaiatuba, tro
 
 ## Grafico
 
-Data da atualização: 29/06/2020
+Data da atualização: 01/07/2020
+
 
 ![Covid em Indaiatuba](figura.png)
 
