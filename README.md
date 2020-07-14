@@ -6,12 +6,16 @@ Dados da Epidemia de Covid em Indaiatuba
 
 A partir dos dados disponibilizados pela prefeitura municipal de Indaiatuba, trouxe esse projeto para uma melhor visualização, visto que gráficos são mais fáceis de interpretar do que números.
 
-## Grafico
+## Gráfico
 
-Data da atualização: 01/07/2020
+Data da atualização: 13/07/2020
 
-
+No gráfico abaixo, temos o total de casos:
 ![Covid em Indaiatuba](figura.png)
+
+
+No gráfico abaixo temos o número de infectados por semana.
+![Covid Por Semana Indaiatuba](figura_sem.png)
 
 ## Autor
 

@@ -10,10 +10,6 @@ with open('./data') as csvfile:
     data        = [] 
     confirmados = []
     mortes      = []
-    uti_haoc    = []
-    enf_haoc    = []
-    uti_hsi     = []
-    enf_hsi     = []
 
     reader = csv.reader(csvfile, delimiter=',')
     next(reader)
@@ -21,10 +17,6 @@ with open('./data') as csvfile:
         data.append( datetime.datetime.strptime(row[0], '%Y-%m-%d').date())
         confirmados.append(row[1])
         mortes.append(row[2])
-        uti_haoc.append(row[3])
-        enf_haoc.append(row[4])
-        uti_hsi.append(row[5])
-        enf_hsi.append(row[6])
 
 
 plt.title("Curva Epidemiológica de Indaiatuba") 
