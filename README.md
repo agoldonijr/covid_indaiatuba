@@ -8,7 +8,7 @@ A partir dos dados disponibilizados pela prefeitura municipal de Indaiatuba, tro
 
 ## Gráfico
 
-Data da atualização: 13/07/2020
+Data da atualização: 07/010/2020
 
 No gráfico abaixo, temos o total de casos:
 ![Covid em Indaiatuba](figura.png)
